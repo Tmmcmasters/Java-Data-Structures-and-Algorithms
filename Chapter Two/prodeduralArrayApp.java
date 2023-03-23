@@ -60,7 +60,7 @@ public class prodeduralArrayApp {
             arr[mover] = arr[mover + 1];
         }
         numberOfItems--; //Decrement number of items
-        System.out.println("Number of items after deletion: " + numberOfItems);
+        
 
 // -------------------------------------------------------------------------------
         // Display all the items now at the end
@@ -69,6 +69,7 @@ public class prodeduralArrayApp {
             System.out.print(arr[loopCounter] + " ");
         }
         System.out.println(" ");
+        System.out.println("Number of items after deletion: " + numberOfItems);
         
     }
 
