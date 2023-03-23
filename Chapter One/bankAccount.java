@@ -3,6 +3,8 @@
 public class bankAccount {
     
     private double balance; // account balance
+    //Public and private are access modifiers.
+    //Private meens that balance is only accessible within the class bankAccount hence why you have the methods like deposit and widthdrawal in this class. ------- 
 
     public bankAccount (double openingBalance) {
         balance = openingBalance;
@@ -25,7 +27,9 @@ public class bankAccount {
 
 class BankApp {
     public static void main(String[] args) {
-        bankAccount ba1 = new bankAccount(100.00); //creates account with opening balance of 100
+        bankAccount ba1 = new bankAccount(100.00); 
+        //^^^This creates an object of the bankAccount class and assigns the opening balance to the balance variable
+
 
         System.out.print("Your current balance before transactions is, ");
         ba1.display(); //displays balance

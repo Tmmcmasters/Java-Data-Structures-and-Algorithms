@@ -12,6 +12,9 @@
 
 • To invoke a method for a particular object, you use the dot operator.
 
+--->>> REVIEW THE bankAccount.java file to see classes and OOP in action. 
+Other than that. Chapter One is done and it is on to algorithms and data structures.
+
  */
 
 public class chapterOne {
