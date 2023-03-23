@@ -7,4 +7,7 @@
 
 public class chapterTwo {
     
+    //Review the other files to view examples of arrays being used. :)
+    //There is a procedure version and OOP version including searching and deletion.
+
 }
