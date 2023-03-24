@@ -67,6 +67,8 @@ public class oopArray {
     }
 } // End of Class oopArray
 
+// -------------------------------------------------------------------------------
+
 class oopArrayApp {
     public static void main(String[] args) {
         int maxSize = 100; //Maximum number of items
