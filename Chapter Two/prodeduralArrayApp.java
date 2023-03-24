@@ -1,4 +1,5 @@
-//This is the procedural way to use arrays in Java. 
+//This is the procedural way to use arrays in Java.
+//Procedural makes it a little disorganized.  
 
 
 
