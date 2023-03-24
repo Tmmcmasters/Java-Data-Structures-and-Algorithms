@@ -1,4 +1,5 @@
 // This program will demonstrate array class with high-level interface. 
+// This program also demonstrates basic levels of abscraction: The process of seperating the how from the what. How an operation is performed inside a class, as apposed to what's visible to the class user. 
 
 public class oopArray {
     private long[] arr; //Reference to an array

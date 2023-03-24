@@ -1,7 +1,7 @@
 
 # Java Algorithms & Data Structures
 
-I have done personal self study in persuit of learning more about complex topics. In this repo, I have followed along a book (below) that explains complex topics with Algorithms and Data Structures. This is personal self study as well as a general representation of my knowledge. You will also find examples of OOP. 
+I have done personal self study in pursuit of learning more about complex topics. In this repo, I have followed along a book (below) that explains complex topics with Algorithms and Data Structures. This is personal self study as well as a general representation of my knowledge. You will also find examples of OOP. 
 
 
 ## Acknowledgements
